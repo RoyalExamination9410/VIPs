@@ -1,0 +1,17 @@
+abbreviation: VP
+available: false
+classes: 1
+colour: 1
+id: 0
+label: VIPS
+longName: vips
+name: VIPs
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 41121
+sprite:
+  filename: cargoes/vips.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1
