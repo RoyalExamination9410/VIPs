@@ -1,7 +1,9 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- VIPS
+cargoProduction:
+- VIPS
 colour: 1
 fundCostMultiplier: 100
 id: 0
